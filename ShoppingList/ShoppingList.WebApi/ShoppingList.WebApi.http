@@ -1,0 +1,6 @@
+@ShoppingList.WebApi_HostAddress = http://localhost:5107
+
+GET {{ShoppingList.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
